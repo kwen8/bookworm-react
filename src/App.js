@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Route } from "react-router-dom";
+import "antd/dist/antd.css";
 import HomePage from "../pages/HomePage";
 import LoginPage from "../pages/LoginPage";
 
